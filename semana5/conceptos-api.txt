@@ -1,0 +1,10 @@
+    Que hace esta ruta?
+    
+    Rt: Recibe datos enviados por el cliente.
+    esto permite confirmar al cliente que el mensaje llego correctamente.
+
+    Para qué podría servir en una aplicación comunitaria?
+   
+    Rt: sirve para recibir reportes de incidentes, recibir sugerencias o quejas anonimas;
+    permite enviar alertas de seguridad o emergencias de forma rapida;
+    sirve como un punto de entrada para un sistema de notificaciones donde los moderadores revisen despues los mensajes recibidos.
