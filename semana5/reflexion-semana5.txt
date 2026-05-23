@@ -1,0 +1,7 @@
+Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+
+Rt: Las APIs pueden convertirse en ese puente sencillo y ordenado que tanto hace falta en una comunidad.
+las autoridades o lideres vecinales tambien pueden usar la API para marcar cuando un problema ya fue resuelto, y asi evitar reportes duplicados.
+Ademas si alguien detecta una emerencia real, como por ejemplo un incendio, una inundacion,etc.
+La API podria enviar alertas automaticas a los telefonos de quienes esten cerca.
+Asi,  con tecnologia simple pero bien pensada, la comunidad pasa del rumor desordenado a la accion clara.
